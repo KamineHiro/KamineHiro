@@ -27,13 +27,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws)  
 
+
+## 🛠 成果物一覧！
+ | 作品名 | 概要 | 技術一覧 |
+|---|---|---|
+| **[課題進捗管理アプリ（今日も徹夜）](https://enpit.parkudp.com/login)** <br> [GitHub](https://github.com/KamineHiro/enPiT2024.git) | enPiT2024の成果物 | React, TypeScript, Python/Flask, sqlite, Docker |
+| **[シフト管理アプリ](https://kadekaru-shiftmanagement.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kadekaru_shiftmanagement.git) | 2週間分のシフトを作成するWebアプリ | React, TypeScript |
+| **[過去問共有アプリ（作成中）](https://kakomon-share.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kakomon_kanri_app.git) | 大学の過去問をみんなで共有できるアプリ | Next.js, TypeScript, Supabase, PostgreSQL |
  
-
-## 🚀 進行中のプロジェクト
-
- 📝 課題進捗管理アプリ → 課題を登録すると自動でリストに追加される機能を開発中  
- 🏗 シフト管理アプリ → 2週間分のシフトを作成するWebアプリ  
- 💬 つながりましょう！  
 
 📫 連絡先: hiroki080602@gmail.com  
 🔗 ポートフォリオ: [作成中]🥺
