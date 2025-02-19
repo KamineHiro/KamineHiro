@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @KamineHiro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 こんにちは、Kamine Hiro です！
 
-<!---
-KamineHiro/KamineHiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 ソフトウェア開発 | フィットネス愛好家 | 技術探求者
+
+🌱 自己紹介
+
+🎓 大学で情報工学を専攻中
+🏋️‍♂️ 筋トレ歴5年、週4〜5回ジムに通い、大会にも出場経験あり！
+🚀 Web開発、システム設計、数理最適化 に興味あり
+💡 Python, Java, TypeScript などを使用
+🔥 React, Next.js, Docker, Supabase などのフレームワークやツールも活用中
+💻 使用技術
+
+🛠 使用技術
+プログラミング言語
+
+
+
+フレームワーク & ライブラリ
+
+
+
+開発ツール & インフラ
+
+
+
+
+
+
+
+🚀 進行中のプロジェクト
+
+📝 課題進捗管理アプリ → 課題を登録すると自動でリストに追加される機能を開発中
+🏗 シフト管理アプリ → 2週間分のシフトを作成するWebアプリ
+🐜 アリコロニー最適化の可視化 → ReactとPythonを使ってAIアルゴリズムの挙動を視覚化
+💬 つながりましょう！
+
+📫 連絡先: hiroki080602@gmail.com
+🔗 ポートフォリオ: [作成中]🥺
