@@ -5,10 +5,10 @@
 ## 🌱 自己紹介
 
 ## 🎓 大学で情報工学を専攻中
-🏋️‍♂️ 筋トレ歴5年、週4〜5回ジムに通い、大会にも出場経験あり！
-🚀 Web開発、システム設計、数理最適化 に興味あり
-💡 Python, Java, TypeScript などを使用
-🔥 React, Next.js, Docker, Supabase などのフレームワークやツールも活用中
+🏋️‍♂️ 筋トレ歴5年、週4〜5回ジムに通い、大会にも出場経験あり！    
+🚀 Web開発、システム設計、数理最適化 に興味あり  
+💡 Python, Java, TypeScript などを使用  
+🔥 React, Next.js, Docker, Supabase などのフレームワークやツールも活用中  
 
 ## 🛠 使用技術
 
