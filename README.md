@@ -14,19 +14,20 @@
 ### 🛠 使用技術
 
 **プログラミング言語**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python) <br>
+![Java](https://img.shields.io/badge/Java-007396?logo=java) <br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript) <br>
 
 **フレームワーク**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react) <br>
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js) <br>
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) <br>
 
 **開発環境**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) <br>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions) <br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws) <br>
+ 
 
 🚀 進行中のプロジェクト
 
