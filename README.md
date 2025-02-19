@@ -32,7 +32,7 @@
  | 作品名 | 概要 | 技術一覧 |
 |---|---|---|
 | **[課題進捗管理アプリ（今日も徹夜）](https://enpit.parkudp.com/login)** <br> [GitHub](https://github.com/KamineHiro/enPiT2024.git) | enPiT2024の成果物 | React, TypeScript, Python/Flask, sqlite, Docker |
-| **[シフト管理アプリ](https://kadekaru-shiftmanagement.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kadekaru_shiftmanagement.git) | 2週間分のシフトを作成するWebアプリ | React, TypeScript |
+| **[シフト管理アプリ](https://kadekaru-shiftmanagement.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kadekaru_shiftmanagement.git) | 2週間分のシフトを作成するアプリ | React, TypeScript |
 | **[過去問共有アプリ（作成中）](https://kakomon-share.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kakomon_kanri_app.git) | 大学の過去問をみんなで共有できるアプリ | Next.js, TypeScript, Supabase, PostgreSQL |
  
 
