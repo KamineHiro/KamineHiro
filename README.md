@@ -35,6 +35,4 @@
 | **[シフト管理アプリ](https://kadekaru-shiftmanagement.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kadekaru_shiftmanagement.git) | 2週間分のシフトを作成するアプリ | React, TypeScript |
 | **[過去問共有アプリ（作成中）](https://kakomon-share.vercel.app)** <br> [GitHub](https://github.com/KamineHiro/kakomon_kanri_app.git) | 大学の過去問をみんなで共有できるアプリ | Next.js, TypeScript, Supabase, PostgreSQL |
  
-
-📫 連絡先: hiroki080602@gmail.com  
 🔗 個人ブログ(作成中🥺): https://kaminehiro.com
